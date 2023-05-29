@@ -19,7 +19,7 @@
 
 - run "npm run lint:all" to run all lint error, "npm run lint:css" for css error check and "npm run lint:html" for html error check
 
-[View LIVE Site](https://iamipheco.github.io/Lesson_3_Task_3_Anyaefiena_Ifechukwu/)
+[View LIVE Site](https://iamipheco.github.io/Lesson_3_Task_4_Anyaefiena_Ifechukwu/)
 
 ## Acknowledgement
 

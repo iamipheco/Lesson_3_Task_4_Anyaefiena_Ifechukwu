@@ -1,4 +1,5 @@
-## This repository contains the code for a simple blog website created with HTML, CSS and a responsive layout using CSS positioning, floats, and flexbox.
+## This repository contains the code for a simple blog website created with HTML and CSS.
+- This webpage contains a responsive layout using CSS positioning, floats, and flexbox.
 
 ## Files
 - index.html This is the main page of the blog. It contains information about the blog.

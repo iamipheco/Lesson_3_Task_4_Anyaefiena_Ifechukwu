@@ -3,7 +3,7 @@
 ## Files
 - index.html This is the main page of the blog. It contains information about the blog.
 
-- css/ This directory contains CSS files used for styling the website.
+- css/ This directory contains a CSS file used for styling the website.
 
 - Images/ This directory contains images used on the website.
 
